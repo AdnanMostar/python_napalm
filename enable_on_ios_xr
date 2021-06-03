@@ -1,0 +1,6 @@
+#This was need to enable on IOS XR 9k to rumsome Python scripts with Scrapli!!!!!!!!!!!!!!!
+configure
+xml agent tty
+xml agent tty 
+xml agent tty iteration off
+commit
