@@ -1,4 +1,4 @@
-#This was need to enable on IOS XR 9k to rumsome Python scripts with Scrapli!!!!!!!!!!!!!!!
+#This was need to enable on IOS XR 9k to rumsome Python scripts with Napalm!!!!!!!!!!!!!!!
 configure
 xml agent tty
 xml agent tty 
